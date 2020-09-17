@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🚚 My end of training project : a [website for TDR] a freight company in south of France (https://github.com/CedricGAUTHIER/transport-de-fret) 
 - 📫 How to reach me:
     - mail : cgauthier.dev@gmail.com
-    - [linkedin] : (https://www.linkedin.com/in/cedric-gauthier/)
+    - linkedin : (https://www.linkedin.com/in/cedric-gauthier/)
     
     
 - 💻 **Do not hesitate to contact me** 🔔
