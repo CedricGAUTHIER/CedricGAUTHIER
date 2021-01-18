@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on  **Finding a job of web developper fullstack NodeJS** and to develop personnal project : [588_Videos]https://github.com/CedricGAUTHIER/588_Videos
-- 🌱 I’m currently learning **ReactJS** and **Redux**
+- 🔭 I’m currently working on  **Finding a job of web developper fullstack NodeJS/ ReactJS** and to develop personnal project using Node, React, Rest API, express.... : coming soon, work in progress
 - 🚚 My end of training project : a **website for TDR** a freight company in south of France (https://github.com/CedricGAUTHIER/transport-de-fret) 
 - 📫 How to reach me:
     - mail : cgauthier.dev@gmail.com
