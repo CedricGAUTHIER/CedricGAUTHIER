@@ -13,6 +13,6 @@ Here are some ideas to get you started:
     - linkedin : https://www.linkedin.com/in/cedric-gauthier/
     
     
-- 💻 **Do not hesitate to contact me** 🔔
+- 💻 **Do not hesitate to contact me** 🔔 and visit my portfolio: http://cgauthier.portfolio.588dev.org
 
 
